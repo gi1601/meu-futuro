@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body{
+    background-color: #FFEB68;
+}
+
+header img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+header{
+    background-color: #705555;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+nav a{
+    margin: 20px;
+    margin-top: 20px;
+    background-color: black;
+    color: #705555;
+    border-radius: 5px;
+    width: 30px;
+}
+
+nav{
+    padding: 20px;
+}
+
+.lala{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 30px;
+}
+
+.lala img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+.aa{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.oi{
+    text-align: center;
+}
+
+.la{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 30px;
+}
+
+.aaa img{
+    width: 400px;
+    border-radius: 30px;
+}
+
+.marrom{
+    background-color: #705555;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.concurso img , .la img{
+    border-radius: 20px;
+    width: 400px;
+}
+
+.ima{
+    display: flex;
+    justify-content: center;
+}
+
+.concurso{
+    text-align: center;
+}
+
+main{
+    margin: 10px;
+}
+
